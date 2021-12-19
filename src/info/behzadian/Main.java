@@ -15,8 +15,8 @@ public class Main {
 
     public static void main(String[] args) {
         try {
-            String sourceFilePath = "C:\\Work\\Workspace\\Mehan\\Java-distance-calculator\\src\\info\\behzadian\\interview-java-staff.json";
-            String outputFilePath = "C:\\Work\\Workspace\\Mehan\\Java-distance-calculator\\src\\info\\behzadian\\selected-staff.json";
+            String sourceFilePath = "C:\\Work\\interview-java-staff.json";
+            String outputFilePath = "C:\\Work\\selected-staff.json";
 
             //
             // Read all staff data from file
